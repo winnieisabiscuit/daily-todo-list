@@ -1,0 +1,9 @@
+{
+  "name": "Daily To-Do List",
+  "short_name": "Daily",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#eef4ff",
+  "theme_color": "#eef4ff",
+  "icons": []
+}
